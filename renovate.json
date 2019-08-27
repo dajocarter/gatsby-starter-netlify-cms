@@ -9,7 +9,9 @@
   },
   "packageRules": [
     {
-      "packageNames": ["netlify-cms-app"],
+      "packageNames": [
+        "netlify-cms-app"
+      ],
       "rangeStrategy": "bump"
     }
   ]
